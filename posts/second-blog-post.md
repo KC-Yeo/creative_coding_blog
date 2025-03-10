@@ -8,10 +8,11 @@ allow_math: true
 
 # Rafaël Rozendaal's work on random color generator 
 
-<iframe src="https://editor.p5js.org/KC-Yeo/full/vnL9hfQua"></iframe>
+<iframe id="random_color_generator" src="https://editor.p5js.org/KC-Yeo/full/vnL9hfQua"></iframe>
 
 <script type="module">
 
+    const iframe  = document.getElementById (`random_color_generator`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16 + 42
 
