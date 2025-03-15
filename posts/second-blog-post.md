@@ -12,6 +12,27 @@ allow_math: true
 
 # Rafaël Rozendaal's work on random color generator 
 
+I chose "81 Horizons" from Rafaël Rozendaal's work. 
+
+*how it works, I think*
+* random() to generate random colour
+* rect() for rectangle size and position
+* mousePressed() when users click on their mouse
+
+*list of concepts*
+1. random colour generator
+2. different size and shapes 
+3. on-click demand to change colour
+
+*list of resources*
+1. The Coding Train (YouTube)
+2. W3Schools (web)
+3. Friends (people)
+
+use words, pictures, and diagrams to explain how you think Rozendaal's code works under the hood.
+make a list of concepts you would need to learn in order to replicate the work in p5.js
+make a list of resources that might help you learn those concepts
+
 <iframe id="random_color_generator" src="https://editor.p5js.org/KC-Yeo/full/vnL9hfQua"></iframe>
 
 <script type="module">
