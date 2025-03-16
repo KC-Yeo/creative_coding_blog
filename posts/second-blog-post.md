@@ -12,7 +12,7 @@ allow_math: true
 
 <script type="module">
 
-    const iframe  = document.getElementById (`random_color_generator`)
+    const iframe  = document.getElementById (`For_Loop`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16 + 42
 
