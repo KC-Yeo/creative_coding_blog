@@ -8,7 +8,15 @@ allow_math: true
 
 # For loop
 
+<iframe id="For_Loop" src="https://editor.p5js.org/KC-Yeo/full/QqwhTnLAc"></iframe>
 
+<script type="module">
+
+    const iframe  = document.getElementById (`random_color_generator`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
 
 # Rafaël Rozendaal's work on random color generator 
 
