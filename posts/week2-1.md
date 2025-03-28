@@ -7,11 +7,12 @@ allow_math: true
 ---
 [HOME](https://kc-yeo-creative-co-37.deno.dev/)
 
+1. [Concepts](#concepts)
+2. 
+
 # Concepts
 
 *cute visuals*
-
-![Studio Ghibli dusts](dusts.jpg)
 
 <iframe id="cute_visuals" src="https://editor.p5js.org/KC-Yeo/full/6lDkLMXh5"></iframe>
 
@@ -61,6 +62,8 @@ idea:
 </script>
 
 The concept of my assignment would surround with colourful bubbles/lights as an offering to my younger self. The ideas is to have a playful and fun concept that focuses on the feeling of joy. 
+
+## Techniques
 
 The techniques are commented in the p5 sketches itself:
 `class()` to make a cookie-cutter for the object

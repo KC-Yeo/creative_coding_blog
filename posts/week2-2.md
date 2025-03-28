@@ -7,7 +7,11 @@ allow_math: true
 ---
 [HOME](https://kc-yeo-creative-co-37.deno.dev/)
 
-# Kindred Spirit
+1. [Kindred Spirit](#kindred-spirit) 
+2. [Expand Idea](#expand-idea-of-at1)
+3. [falling_falling](#falling_falling)
+
+## Kindred Spirit
 
 *what is the context of your kinship?*
 The context of my kinship is the relationship between childhood memories and myself. I think of kinship as a reassurance of my younger self that it's okay to keep the naivety of a youngling. Don't grow up too quickly and forget to enjoy the times that I didn't have to think about money and time. The purity of not having any societal views of anything but innocence and joy.
@@ -18,13 +22,15 @@ The common purpose between my current self and my younger self is to remind myse
 *who or what is your shared challenge / adversary?*
 The pressure of societal norms to act like everyone else. The challenge of being my true authentic self and the distractions of having other people's opinions with no proper guidance. 
  
-# Expand idea of AT1
+## Expand idea of AT1
 
-From my kindred spirit's POV, I think she would enjoy the jellies she creates. It's a water bead toy that would grow when interacted with water. The visual of my sketch is inspired by the ![jellies](). 
+From my kindred spirit's POV, I think she would enjoy the jellies she creates. It's a water bead toy that would grow when interacted with water. The visual of my sketch is inspired by the ![jellies](jellies.jpg)[^1]. 
+
+[^1]: [*ref for jellies*](https://shorturl.at/tEEQo)
 
 Please expand on your discussions from homework: 2a to explain how your chosen kindred spirit may understand or relate to the visual, sonic, and interactive elements of your AT1 idea.  Please use embedded p5 sketches to help explain your ideas.
 
-# falling_falling
+## falling_falling
 
 <iframe id="falling_falling" src="https://editor.p5js.org/KC-Yeo/full/A4iFiOdLF"></iframe>
 
