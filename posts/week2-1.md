@@ -11,8 +11,7 @@ allow_math: true
 
 *cute visuals*
 
-![Studio Ghibli dusts](desktop/coding/dusts.jpg)
-![fluffs](fluffy.jpg)
+![Studio Ghibli dusts](dusts.jpg)
 
 <iframe id="cute_visuals" src="https://editor.p5js.org/KC-Yeo/full/6lDkLMXh5"></iframe>
 
