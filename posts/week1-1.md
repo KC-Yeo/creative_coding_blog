@@ -28,7 +28,7 @@ allow_math: true
 
 </script>
 
-## 81 Horizon by Rafaël Rozendaal [^1]
+## 81 Horizon by Rafaël Rozendaal[^1]
 
 [^1] [81 Horizon by RR](https://www.newrafael.com/81-horizons/)
 
