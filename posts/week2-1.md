@@ -56,7 +56,7 @@ The idea is to have the object following the mouse as well, like a chasing game 
 
 For sound design, I used the library of Freesound.org [^2], where there are multiple audios that I was interested in. I initally wanted the sound to have an ambience music as my initial design was suppose to be lights, but halfway through I reconsidered the options and opted for bubbles popping sound. Circling back to the Orbeeze (water beads), I wanted to make my sketch more interactive with sounds as well. So I used `mousePressed()` function to recall the sounds. 
 
-[^2] [Freesound](https://freesound.org/people/Funky_Audio/sounds/698818/?)
+[^2]: [Freesound](https://freesound.org/people/Funky_Audio/sounds/698818/?)
 
 *cute interactions*
 
@@ -87,9 +87,9 @@ The concept of my assignment would surround with colourful jellies as an offerin
 ## Techniques
 
 The techniques are commented in the p5 sketches itself:
-`class()` to make a cookie-cutter for the object
-`rand()` for random unexpected colours
-`sound` for more interactions with senses other than eyes
-`mousePressed()` to have interaction with the mouse
-`array[]` to loop through the list 
-`if` statement for dynamic background
+> `class()` to make a cookie-cutter for the object
+> `rand()` for random unexpected colours
+> `sound` for more interactions with senses other than eyes
+> `mousePressed()` to have interaction with the mouse
+>`array[]` to loop through the list 
+> `if` statement for dynamic background

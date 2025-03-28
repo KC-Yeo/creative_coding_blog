@@ -26,11 +26,11 @@ The pressure of societal norms to act like everyone else. The challenge of being
 
 From my kindred spirit's POV, I think she would enjoy the jellies she creates. It's a water bead toy that would grow when interacted with water. The visual of my sketch is inspired by the ![jellies](jellies.jpg)[^1]. 
 
+[^1]: [*ref for jellies*](https://shorturl.at/tEEQo)
+
 They are called orbeeze by some and they are for agriculture purposes to retain the moisture of the soil. In my family however, I used to play orbeez with my siblings when we were younger as a play toy. Thankfully, no major accidents were caused by the toxic jellies so I didn't have any trauma from that. Which retains my childhood memory with that particular play-thing.
 
 As a kid, I think my kindred spirit will enjoy the interactions of chasing around a ball or having the sound be cute and weird in a way. Or like a bouncing ball that changes colour. 
-
-[^1]: [*ref for jellies*](https://shorturl.at/tEEQo)
 
 Please expand on your discussions from homework: 2a to explain how your chosen kindred spirit may understand or relate to the visual, sonic, and interactive elements of your AT1 idea.  Please use embedded p5 sketches to help explain your ideas.
 

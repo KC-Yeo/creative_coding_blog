@@ -13,7 +13,7 @@ allow_math: true
 
 ## Why Was He Sad by Rafael Rozendaal [^1]
 
-[^1] [Why Was He Sad](https://www.whywashesad.com/)
+[^1]: [Why Was He Sad](https://www.whywashesad.com/)
 
 ## Visually
 For the visual aspect in this work of Rafael Rozendaal, I think it captures the innocent and child-like manner of a cartoon. It has simple designs with existing objects, the sky and clouds. Although the colour pallete in this sketch is simple, I think it helps users to interact with the sketch effectively. The inspiration of having radial gradient is from the work of Rafael Rozendaal's [Center](https://www.newrafael.com/center/) & [Radial](https://www.newrafael.com/radial/).
