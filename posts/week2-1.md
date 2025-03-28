@@ -5,14 +5,14 @@ snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
-[HOME](https://kc-yeo-creative-co-37-xgj1d5ybvvve.deno.dev/)
+[HOME](https://kc-yeo-creative-co-37.deno.dev/)
 
 # Concepts
 
 *cute visuals*
 
-![Studio Ghibli dusts](dusts.jpg)
-![fluffs](fluffy.jpg)
+![Studio Ghibli dusts](desktop/coding/dusts.jpg)
+![fluffs](desktop/coding/fluffy.jpg)
 
 <iframe id="cute_visuals" src="https://editor.p5js.org/KC-Yeo/full/6lDkLMXh5"></iframe>
 

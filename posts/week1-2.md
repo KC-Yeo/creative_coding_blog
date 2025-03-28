@@ -5,7 +5,7 @@ snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
-[HOME](https://kc-yeo-creative-co-37-xgj1d5ybvvve.deno.dev/)
+[HOME](https://kc-yeo-creative-co-37.deno.dev/)
 
 # Discussions
 1. Minami:

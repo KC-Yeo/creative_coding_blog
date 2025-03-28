@@ -5,7 +5,7 @@ snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
-[HOME](https://kc-yeo-creative-co-37-xgj1d5ybvvve.deno.dev/)
+[HOME](https://kc-yeo-creative-co-37.deno.dev/)
 
 # Kindred Spirit
 
@@ -18,13 +18,15 @@ The common purpose between my current self and my younger self is to remind myse
 *who or what is your shared challenge / adversary?*
 The pressure of societal norms to act like everyone else. The challenge of being my true authentic self and the distractions of having other people's opinions with no proper guidance. 
  
-# 
+# Expand idea of AT1
+
+From my kindred spirit's POV, I think she would enjoy the jellies she creates. It's a water bead toy that would grow when interacted with water. The visual of my sketch is inspired by the ![jellies](). 
 
 Please expand on your discussions from homework: 2a to explain how your chosen kindred spirit may understand or relate to the visual, sonic, and interactive elements of your AT1 idea.  Please use embedded p5 sketches to help explain your ideas.
 
 # falling_falling
 
-<iframe id="falling_falling src="https://editor.p5js.org/KC-Yeo/full/I41MqpKobZ"></iframe>
+<iframe id="falling_falling" src="https://editor.p5js.org/KC-Yeo/full/A4iFiOdLF"></iframe>
 
 <script type="module">
 
