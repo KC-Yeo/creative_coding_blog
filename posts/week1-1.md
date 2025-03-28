@@ -7,7 +7,10 @@ allow_math: true
 ---
 [HOME](https://kc-yeo-creative-co-37.deno.dev/)
 
-# For loop
+1. [For Loop](#for-loop)
+2. [RR's 81 Horizon](#81-horizon-by-rafaël-rozendaal)
+
+## For loop
 
 *What's going on, I think*
 * the increments of the sqaure size are different each time with each square
@@ -25,7 +28,9 @@ allow_math: true
 
 </script>
 
-# [81 Horizon](https://www.newrafael.com/81-horizons/) by Rafaël Rozendaal
+## 81 Horizon by Rafaël Rozendaal [^1]
+
+[^1] [81 Horizon by RR](https://www.newrafael.com/81-horizons/)
 
 *how it works, I think*
 * function that randomize colour wheel on demand

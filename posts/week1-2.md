@@ -7,7 +7,10 @@ allow_math: true
 ---
 [HOME](https://kc-yeo-creative-co-37.deno.dev/)
 
-# Discussions
+1. [Discussions](#discussions)
+2. [How it works](#81-horizon-by-rafaël-rozendaal)
+
+## Discussions
 1. Minami:
 Hello KC! 
 I think what’s happening here is:
@@ -44,7 +47,7 @@ What resources might help me to learn those concepts?
 
 I frequently consult various resources for information, including the p5.js reference documentation, Reddit discussions, Stack Overflow for programming questions, ChatGPT for code I couldn't find anywhere else or to clean up unnecessary code and W3Schools for JavaScript tutorials and YouTube tutorials are a big help for understanding code lookup coding train, I found it quite helpful. I believe utilising these resources will help us learn new concepts. 
 
-# 81 Horizon by Rafaël Rozendaal
+## 81 Horizon by Rafaël Rozendaal
 
 *I have commented on p5 sketch itself on how the code is working*
 
@@ -53,7 +56,7 @@ The playlist helped in teaching me on the `rand()` function that is crucial for 
 
 I firstly did the square like you would to position a static object, `(x, y, size)`, according to the canvas size. Then I changed the canvas to be windowWidth and windowHeight so users can view the sketch according to their screen. Then, I used some math components to arrange the size and positon similar to Rafaël Rozendaal's work, 81 Horizon.
 
-* mdn web docs
+* [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 I used this website as a dictionary on how some function works. 
 
 * ChatGPT
