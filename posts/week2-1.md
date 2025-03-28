@@ -12,7 +12,7 @@ allow_math: true
 *cute visuals*
 
 ![Studio Ghibli dusts](desktop/coding/dusts.jpg)
-![fluffs](C:\Users\yeoka\OneDrive\Desktop\coding/fluffy.jpg)
+![fluffs](fluffy.jpg)
 
 <iframe id="cute_visuals" src="https://editor.p5js.org/KC-Yeo/full/6lDkLMXh5"></iframe>
 
