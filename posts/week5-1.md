@@ -1,7 +1,7 @@
 ---
 title: Week 5, 1
 published_at: 2024-04-03
-snippet: An example of a blog post.
+snippet: Sketch embed.
 disable_html_sanitization: true
 allow_math: true
 ---
