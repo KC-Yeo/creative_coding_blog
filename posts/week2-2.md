@@ -1,7 +1,7 @@
 ---
 title: Week 2, 2
 published_at: 2024-03-14
-snippet: An example of a blog post.
+snippet: Idea of kindred spirits.
 disable_html_sanitization: true
 allow_math: true
 ---

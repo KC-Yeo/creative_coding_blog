@@ -1,7 +1,7 @@
 ---
 title: Week 4, 1
 published_at: 2024-03-26
-snippet: An example of a blog post.
+snippet: High Effective Complexity
 disable_html_sanitization: true
 allow_math: true
 ---
