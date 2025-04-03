@@ -1,7 +1,7 @@
 ---
 title: Week 1, 2
 published_at: 2024-03-07
-snippet: An example of a blog post.
+snippet: Discussions, Concepts
 disable_html_sanitization: true
 allow_math: true
 ---
