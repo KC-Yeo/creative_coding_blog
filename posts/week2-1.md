@@ -1,6 +1,6 @@
 ---
 title: Week 2, 1
-published_at: 2024-03-12
+published_at: 2025-03-12
 snippet: Concepts, Techniques
 disable_html_sanitization: true
 allow_math: true

@@ -1,6 +1,6 @@
 ---
 title: Week 1, 1
-published_at: 2024-03-05
+published_at: 2025-03-05
 snippet: For loop, 81 Horizon
 disable_html_sanitization: true
 allow_math: true

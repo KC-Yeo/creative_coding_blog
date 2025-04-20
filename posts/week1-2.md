@@ -1,6 +1,6 @@
 ---
 title: Week 1, 2
-published_at: 2024-03-07
+published_at: 2025-03-07
 snippet: Discussions, Concepts
 disable_html_sanitization: true
 allow_math: true

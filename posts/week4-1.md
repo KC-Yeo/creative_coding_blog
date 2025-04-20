@@ -1,11 +1,27 @@
 ---
 title: Week 4, 1
-published_at: 2024-03-26
+published_at: 2025-03-26
 snippet: High Effective Complexity
 disable_html_sanitization: true
 allow_math: true
 ---
 [HOME](https://kc-yeo-creative-co-37.deno.dev/)
+
+## high
+
+## low
+
+## high effective complexity
+
+<iframe id="recursive" src="https://editor.p5js.org/KC-Yeo/full/cM3uQc0ep "></iframe>
+
+<script type="module">
+
+    const iframe  = document.getElementById (`recursive`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
 
 Please use either Canvas API or the p5 online editor to create three example compositions, demonstrating:
 high compressibility

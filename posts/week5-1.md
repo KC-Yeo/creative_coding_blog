@@ -1,10 +1,11 @@
 ---
 title: Week 5, 1
-published_at: 2024-04-03
+published_at: 2025-04-03
 snippet: Sketch embed.
 disable_html_sanitization: true
 allow_math: true
 ---
+[HOME](https://kc-yeo-creative-co-37.deno.dev/)
 
 <script src="./scripts/p5.js"></script>
 
@@ -14,9 +15,10 @@ allow_math: true
     const cnv = document.getElementById ("p5_example")
 
     function setup () {
-        createCanvas (w, h, P2D, cnv)
         const w = cnv.parentNode.scrollWidth
         const h = w * 9 / 16
+        createCanvas (w, h, P2D, cnv)
+        
     }
 
     function draw () {

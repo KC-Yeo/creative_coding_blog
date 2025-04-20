@@ -1,6 +1,6 @@
 ---
 title: Week 3, 2
-published_at: 2024-03-21
+published_at: 2025-03-21
 snippet: Concepts, Draft of A1
 disable_html_sanitization: true
 allow_math: true
