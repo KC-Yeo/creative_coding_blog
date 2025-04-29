@@ -197,3 +197,7 @@ requestAnimationFrame (draw_teapot)
 </script>
 
 ## Sabato Visconti
+
+consider the above piece of glitch art by Sabato ViscontiLinks to an external site. ^
+what does having the 3D form glitch out like this do in terms of aesthetic register, and effective complexity?
+how do you think it works, under the hood?

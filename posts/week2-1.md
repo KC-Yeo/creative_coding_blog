@@ -26,7 +26,7 @@ allow_math: true
 
 For the visuals, I've opted using simple shape like a circle to capture the essence of a ball. The ball is a translucent colour that you can see  through. From my sketch, I used a method by Jorge Moreno [^1] that I downloaded from p5.js, particularly the 'radial' gradient to achieve the effect. From the reference, we know that we have to input values from the colour wheel to get the effect. 
 
-```
+```javascript
 fillGradient('radial', {
     from : [200, 200, 0], // x, y, radius
     to : [200, 200, 200], // x, y, radius
