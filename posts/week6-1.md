@@ -106,7 +106,7 @@ Esm is a type of cdn that imports libraries with a url link directly without nee
 <div id="q5_test"></div>
 
 <script type="module">
-    import Q5 from '/scripts/q5.js'
+    import Q5 from 'scripts/q5.js'
     const div = document.getElementById (`q5_test`)
     const width = div.parentNode.scrollWidth
     const height = width * 9 / 16
@@ -143,6 +143,8 @@ Esm is a type of cdn that imports libraries with a url link directly without nee
 
 *What Is It Like To Be A Fungus by Merlin Sheldrake*
   Reading through the text, I was inspired by the way it describes everything is connected. Like how some fungi make their own microclimate. And looking at some examples of mycelium, I became in awe of all the different types of patterns they create organically without any system implanted. They grow irregularly? but at the same time creates something of a pattern of some sort. Fungus is everywhere. They make up everything and exist everywhere. It mentions how the bases of ecosystems are fungi related, no ecosystems found are without fungi. With fungus, it can be both a disease or a treatment depending on the use of it.
+  <br>
+  <br>
  
 
 

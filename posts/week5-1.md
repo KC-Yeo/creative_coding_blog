@@ -14,7 +14,7 @@ I picked the one I suggested in class because I think his work is kind of like a
 
 If he were using javascript, I would think he is well acquainted with glitch effects. Seeing as his artwork is indeed mimicking the glitch.
 
-<script src="./scripts/p5.js"></script>
+<!-- <script src="./scripts/p5.js"></script>
 
 <canvas id="p5_example"></canvas>
 
@@ -32,7 +32,7 @@ If he were using javascript, I would think he is well acquainted with glitch eff
         background (`turquoise`)
         console.log (frameCount)
     }
-</script>
+</script> -->
 
 <br>
 <br>
