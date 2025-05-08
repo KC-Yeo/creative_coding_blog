@@ -12,13 +12,22 @@ allow_math: true
 3. [Feedbacks](#feedbacks)
 
 # Compositions
-***high compressibility***
 
+***high compressibility***
+<iframe id = "high-compress" src="https://editor.p5js.org/KC-Yeo/full/YfcaZelIZ"></iframe>
+
+<script type="module">
+
+    const iframe  = document.getElementById (`high-compress`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
 
 ***low compressibility***
 
-***high effective complexity***  
 
+***high effective complexity*** 
   My idea of high effective complexity is something between total chaos and total order. I've asked ChatGPT to visualize the concept of high effective complexity and this is what it came up with.
 
 ![high  effective complexity](effective_complexity.png)
@@ -109,7 +118,13 @@ function turtle() {
   // making the object in the middle
   translate(width / 2, height / 2);
   stroke(255);
+
+  // this is a loop that generates everytime 
+  // when button is clicked
   for (var i = 0; i < sentence.length; i ++) {
+
+    // retrieving strong information and replacing 
+    // at the index
     var current = sentence.charAt(i)
     if (current == "F") {
       line(0, 0, 0, -len)
@@ -156,15 +171,6 @@ function mousePressed() {
     iframe.height = iframe.width * 9 / 16 + 42
 
 </script>
-
-Please use either Canvas API or the p5 online editor to create three example compositions, demonstrating:
-high compressibility
-low compressibility
-high effective complexity
-(try The Coding Train's Algorithmic BotanyLinks to an external site. or Nature of CodeLinks to an external site. playlists for inspiration)
-In his paper, What is Generative Art: Complexity Theory as a Context for Art TheoryLinks to an external site. (2003), Philip Galanter writes that " ... some maintain that this notion of structure is subjective and remains in the eye of the beholder. "  Why might this be useful for the purposes of making generative art?  
-Embed and refer to the three examples created above to support your explanation.
-In your third example, what concepts and code are responsible for creating structure, in this sense?
-Choose an art work from one of these artists. 
-Discuss how this artist has used structure and randomness to achieve effective complexity in their work.
+ <br>
+ <br>
  

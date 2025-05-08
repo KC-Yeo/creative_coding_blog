@@ -15,13 +15,19 @@ allow_math: true
 
 
 ## Use of each library
+All 3 libraries uses WEBGL rendered to render sketches.
+
 * q5.js
+From my understanding, it seems like q5 is most similar to p5. It is used for interactive sketches. Not compatible with module.
 
 * c2.js
+Simplified canvas drawings? Not compatible with module.
 
 * svg.js
+Scalable vector graphics. Used for rendering any grpahics without losing the quality. It is compatible with module.
 
 ## esm.sh
+Esm is a type of cdn that imports libraries with a url link directly without needing the users to download the raw file. It is useful for users so they don't use a lot of storage for their codes and they can use the network to help support the codes.
 
 ## q5 demonstration
 <div id="q5_test"></div>
@@ -132,23 +138,12 @@ allow_math: true
 ```
 
 ## Readings
+*Information and Thinking by Michel Serres*
+  The reading discusses how people take in things, and processes them. People also use the information they received to emit and store them based on what our brains already know from experience. Using what we already know to make sense of things. It also discusses how we're not the only species that does that in fact, everything recieves, emits, process, and stores information that is known. 
 
-Please consider the following javascript libraries:
-
-q5.jsLinks to an external site.
-c2.jsLinks to an external site.
-svg.jsLinks to an external site.
-... and attend to the following questions / tasks:
-
-What is each library for? 
-In what ways are they different?
-Can we use these libraries from within a javascript moduleLinks to an external site.? Explain why / why not.
-In what situations might a tool like esm.shLinks to an external site. be useful?
-Use one of these libraries on your blog to demonstrate how to use a signal or envelope to make something change over time.
-In your own words, please give a brief summary of the following texts:
-Information & Thinking by Michel Serres
-What Is It Like to Be A Fungus? by Merlin Sheldrake
-Xenofemenism: A Politics for Alienation by Laboria Cuboniks
+*What Is It Like To Be A Fungus by Merlin Sheldrake*
+  Reading through the text, I was inspired by the way it describes everything is connected. Like how some fungi make their own microclimate. And looking at some examples of mycelium, I became in awe of all the different types of patterns they create organically without any system implanted. They grow irregularly? but at the same time creates something of a pattern of some sort. Fungus is everywhere. They make up everything and exist everywhere. It mentions how the bases of ecosystems are fungi related, no ecosystems found are without fungi. With fungus, it can be both a disease or a treatment depending on the use of it.
+ 
 
 
 

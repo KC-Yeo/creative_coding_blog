@@ -7,6 +7,9 @@ allow_math: true
 ---
 [HOME](https://kc-yeo-creative-co-37.deno.dev/)
 
+1. [Selfie portrait](#self-portrait)
+2. [Glitch readings](#glitch-readings)
+
 ## Self-portrait
 
 <canvas id="glitch_selfie"></canvas>
@@ -79,6 +82,7 @@ allow_math: true
 
 <script type="module">
 
+   //setting up canvas using vanilla js
    const cnv = document.getElementById (`glitch_selfie`)
    cnv.width = cnv.parentNode.scrollWidth
    cnv.height = cnv.width * 9 / 16
@@ -86,21 +90,31 @@ allow_math: true
 
    const ctx = cnv.getContext (`2d`)
 
+   //initialising function
    let img_data
 
    const draw = i => ctx.drawImage (i, 0, 0, cnv.width, cnv.height)
 
+   //when image loads, 
+   //add glitch effect
    const img = new Image ()
    img.onload = () => {
+
       cnv.height = cnv.width * (img.height / img.width)
       draw (img)
       img_data = cnv.toDataURL ("image/jpeg")
       add_glitch ()
    }
+
+   //sourcing from different file
+   //for image
    img.src = `/250401/selfie.jpg`
 
+   //declaring variable
+   //return value upto to whole number within max
    const rand_int = max => Math.floor (Math.random () * max)
 
+   //glitch function
    const glitchify = (data, chunk_max, repeats) => {
       const chunk_size = rand_int (chunk_max / 4) * 4
       const i = rand_int (data.length - 24 - chunk_size) + 24
@@ -110,6 +124,8 @@ allow_math: true
       return repeats == 0 ? result : glitchify (result, chunk_max, repeats - 1)
    }
 
+   //asigning empty array 
+   //to store data
    const glitch_arr = []
 
    const add_glitch = () => {
@@ -140,13 +156,9 @@ allow_math: true
 
 </script>
 ```
+## glitch readings
 
-Use techniques from Glitch, or Pixel Sort, or both, to render a self-portrait on your blog.
-show your commented code in a syntax-highlighted code-block
-How does rendering your likeness in this way affect its aesthetic register?  In your discussion, please refer to:
-* one or more readings from "Glitch Readings"
-
-***A Phenomenology of Glitch Art:***
+ ***A Phenomenology of Glitch Art:***
   In the reading of "A Phenomenology of Glitch Art", there is a paragraph that describes how glitch art relies on the errors in the system to trigger the flow. This means glitch art is done my actively disturbing the system with something. In
 
  ***Glitch is Skin:***
@@ -155,11 +167,5 @@ How does rendering your likeness in this way affect its aesthetic register?  In 
 
 [^1]: [USS Callister](https://en.wikipedia.org/wiki/USS_Callister)
 
-* one or more readings from "Net Art Readings"
-
-
-* the concept of effective complexity
-
-
-* Ngai's three aesthetic registers
-
+<br>
+<br>

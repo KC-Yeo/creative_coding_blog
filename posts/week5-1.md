@@ -1,11 +1,18 @@
 ---
 title: Week 5, 1
 published_at: 2025-04-03
-snippet: Sketch embed.
+snippet: Post digital
 disable_html_sanitization: true
 allow_math: true
 ---
 [HOME](https://kc-yeo-creative-co-37.deno.dev/)
+
+1. [Han Hsu Tung](#han-hsu-tung)
+
+## [Han Hsu Tung](https://hsutunghan.wordpress.com/)
+I picked the one I suggested in class because I think his work is kind of like a example of merging 2 mediums into one. His work is usually wooden that is carved into something with a glitch effect, which only happens in the digital world. Is he a post-digital artist? I think so. In Floriam Cramer's "What is 'Post-digital'", they mentioned that 'post' must not ber understood as the past but what is beyond. In this case, I would think the artist has deliberately merged 2 mediums, digital and physical, to make art. I think this would be beyond the scope of post-digital.
+
+If he were using javascript, I would think he is well acquainted with glitch effects. Seeing as his artwork is indeed mimicking the glitch.
 
 <script src="./scripts/p5.js"></script>
 
@@ -27,8 +34,5 @@ allow_math: true
     }
 </script>
 
-pick a post-digital artist from our discord channel, or from elsewhere on the internet.  Choose a specific work and describe it, referring to Florian Cramer's essay What is Post-Digital? to justify why you think this artist classifies as post-digital.
-what technology are they using to produce their work? 
-Hypothetically, if they were using javascript, what APIs & libraries could they use?
-use RiTa.jsLinks to an external site. to generate a post-digital poem responding to the work in your blog.
-< b o n u s ~ r o u n d > incorporate one or more libraries you found in 2, in the presentation your post-digital poem.
+<br>
+<br>

@@ -197,7 +197,6 @@ requestAnimationFrame (draw_teapot)
 </script>
 
 ## Sabato Visconti
-
-consider the above piece of glitch art by Sabato ViscontiLinks to an external site. ^
-what does having the 3D form glitch out like this do in terms of aesthetic register, and effective complexity?
-how do you think it works, under the hood?
+Using the glitch effect, it makes it look like the process of forming the piece. The rose itself without the glitch is low compressibilty as there is not much added to it, but with the glitch effect it creates a sense of chaos into the piece. That's what makes the it high effective complexity. Using 3d perespective, I think that the vertices are being depleted and adding back together to form the piece. That's what making the glitch effect. 
+<br>
+<br>
