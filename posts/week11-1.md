@@ -12,10 +12,6 @@ allow_math: true
 2. [Editing](#video-editing)
 3. [Domain, Repertoire, Plan](#domain-repertoire-plan)
 
-## Recordings
-
-## Video editing
-
 ## Domain, Repertoire, Plan
   Domain: My long distance siblings that are never in the same country since we've decided to study and live abroad. We have always been close and regularly update each other calls and messages. 
 
